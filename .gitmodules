@@ -1,3 +1,3 @@
 [submodule "nginxproxymanagerstreams"]
 	path = nginxproxymanagerstreams
-	url = git@github.com:Smekl/addon-nginx-proxy-manager.git
+	url = https://github.com/Smekl/addon-nginx-proxy-manager.git
