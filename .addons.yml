@@ -1,0 +1,6 @@
+channel: stable
+addons:
+  nginxproxymanagerstreams:
+    repository: Smekl/addon-nginx-proxy-manager
+    target: proxy-manager
+    image: ghcr.io/hassio-addons/nginxproxymanager/{arch}
